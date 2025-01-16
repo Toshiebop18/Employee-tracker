@@ -26,7 +26,7 @@ This is a simple commandline application that is created to prompt a user to cre
 
 ## Execution  
   Below is an execution video that shows a sample of the working program.  
-  [video](./video/execution_video.mp4)
+  [video](./video/exec_vid.mp4)
 
 ## License  
 
